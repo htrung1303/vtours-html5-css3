@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/htrung1303/vtours-html5-css3#readme",
   "devDependencies": {
-    "node-sass": "^4.13.0"
+    "node-sass": "^4.13.1"
   }
 }
